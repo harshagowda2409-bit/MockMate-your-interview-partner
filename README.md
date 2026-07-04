@@ -101,13 +101,13 @@ mvn spring-boot:run
 
 ## Home Page
 
-![Home](screenshots/login.png)
+![Home](screenshots/login page.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/home page.png)
 
 ---
 
