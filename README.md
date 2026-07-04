@@ -1,4 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="banner image.png" alt="MockMate Banner" width="100%">
+</p><div align="center">
+ <div align="center">
 
 # 🚀 MockMate – AI Mock Interview Platform (Backend)
 
@@ -6,8 +9,9 @@ Backend service for an AI-powered Mock Interview Platform built using **Java Spr
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?style=for-the-badge&logo=springboot)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-blue?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
 
 </div>
 
