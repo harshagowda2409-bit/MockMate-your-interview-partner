@@ -17,12 +17,21 @@ Backend service for an AI-powered Mock Interview Platform built using **Java Spr
 
 ---
 
-# 📌 Overview
+# 📖 Project Overview
 
-MockMate Backend provides secure REST APIs for authentication, interview management, AI-powered interview feedback, resume analysis, and user profile management.
-
+MockMate is an AI-powered mock interview platform designed to help users prepare for technical interviews. The platform enables users to practice interview questions, receive AI-generated feedback, analyze resumes, and monitor their interview performance through a modern web interface.
 ---
+# 🚀 Project Highlights
 
+- 🤖 AI-powered interview question generation
+- 📄 Resume analysis
+- 🔐 Secure JWT authentication
+- 📊 Interview performance dashboard
+- 💬 AI-generated answer evaluation
+- 📱 Responsive modern interface
+- ⚡ RESTful API architecture
+- 🗄️ MongoDB database integration
+- 
 # ✨ Features
 
 - User Authentication (JWT)
@@ -53,19 +62,7 @@ MockMate Backend provides secure REST APIs for authentication, interview managem
 
 # 📂 Project Structure
 
-```
-src
- ├── controller
- ├── service
- ├── repository
- ├── entity
- ├── dto
- ├── security
- ├── config
- └── exception
-```
-
----
+<pre> # 🏗️ Project Architecture ```text User │ ▼ React Frontend │ REST API Calls │ ▼ Spring Boot Backend │ JWT Authentication │ ▼ MongoDB │ ▼ Groq AI API ``` </pre>
 
 # ⚙️ Installation
 
