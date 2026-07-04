@@ -97,6 +97,29 @@ mvn spring-boot:run
 - Admin Dashboard
 
 ---
+# 📸 Screenshots
+
+## Home Page
+
+![Home](screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Interview
+
+![Interview](screenshots/interview.png)
+
+---
+
+## AI Feedback
+
+![Feedback](screenshots/history.png)
 
 # 💻 Frontend Repository
 
